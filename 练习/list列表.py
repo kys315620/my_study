@@ -20,11 +20,12 @@
 #
 
 
-list1 = [11, 2, 31, 4, -5, 15, 17, 28, 49, 10, -11, 16, 54, -14, 36, -16, 87, -39]
-list2 = [i for i in list1 if i>0]
-list2.sort()
-list2.reverse()
-print(list2)
+# list1 = [11, 2, 31, 4, -5, 15, 17, 28, 49, 10, -11, 16, 54, -14, 36, -16, 87, -39]
+# list2 = [i for i in list1 if i>0]
+# list2.sort()
+# list2.reverse()
+# print(list2)
+
 
 
 
